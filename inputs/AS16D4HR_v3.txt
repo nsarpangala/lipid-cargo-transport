@@ -1,0 +1,39 @@
+Number of motors,N,16
+Sample Size,sampleSiz,200
+Motor Stiffness (N/m),kmot,0.00032
+Mean velocity of motors(m/s),velMean,0.8e-6
+Standard deviation of velocity,velStdev,0.0
+Time step (s),dt,1e-6
+Simulation time real (s),tmax,120
+Sample Rate(Frequency of data recording),samrate,10000
+Optical trap stiffness,Ktrap,0
+Optical trap load [on/off 1/0],load,0
+Onrate of Kinesin [per second],Pon,5
+Motor step size (m),dx,8E-09
+Length of the motor(m),Lmot,57E-09
+Stall force of single kinesin (N),Fs,7E-012
+Power law exponent,w,2
+Radius of the bead (m),radius,0.25E-06
+Motor bare off rate(per s),eps,0.79
+Angle of intersection between the microtubules,theta,90.0
+Xintercept of second microtubule (nm),xintercept,-1000E-9
+Starting position of bead (nm),beadposx,0.0
+,beadposy,0
+,beadposz,2.7e-7
+Viscosity of intracellular fluid (approximated to water),viscosity,0.001
+Temperature (K),temp,295
+Flexural rigidity of the microtubule(Nm2),fl_rgdty,2.15E-23
+Elevation of second microtubule at intersection(m),ho,25E-9
+Force per unit bond (septavin-microtubule)(N),f_bind,200E-012
+Radius of microtubule(m),mr,12.5E-09
+Steric force constant (N/m),ksf,3.2e-3
+Accuracy in root finding steric force(m),nr_sf_accuracy,1e-20
+simulation dimension,dim,3
+boltzman constant(J/K),kbolt,1.3806e-23
+radius of access sphere of motor(m),access_r,57e-9
+diffusion constant spherical diffusion(m^2/s),lipD,1.0e-12
+space discretization (m),deltax,2e-9
+simulation name,simname,AS16D4HR_v3
+lipid on,lipon,1
+diffusion constant for rotational diffusion (rad^2/s),rotD,0
+data sampling time (s),samtime,1e-2
