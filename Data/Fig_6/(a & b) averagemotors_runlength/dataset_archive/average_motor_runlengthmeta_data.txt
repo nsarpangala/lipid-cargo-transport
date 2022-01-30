@@ -1,0 +1,4 @@
+Git previous commit 4d521346760bf8e1a0c9e129f6a95be3c08f7c43 
+Host computer: mrcdlogin.cluster 
+Date and Time: Sun Oct  4 00:00:00 2020 
+Name of the file: /home/nsarpangala/.conda/envs/MyPython/lib/python3.7/site-packages/ipykernel_launcher.py 

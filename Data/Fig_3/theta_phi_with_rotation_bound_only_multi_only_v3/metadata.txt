@@ -1,0 +1,4 @@
+These results are from the following branch: fixed_load_simulations
+Commit hash:  9a9285802ab4d72e885e296c8ee134f34c65c86f
+Jupyter notebook name: src/analysis/heatmap_theta_phi_distribution.py
+Computer: mrcdlogin.cluster

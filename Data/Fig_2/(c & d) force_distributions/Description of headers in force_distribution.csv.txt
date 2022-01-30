@@ -1,0 +1,14 @@
+Each column name carries information of the number of motors in the cargo (N), whether rotation was considered, and diffusion constant
+
+Name has the following structure
+AS(N)(diffusion constant)H(rotation)_v3(number of bound motors)
+
+diffusion constant = R (rigid), D4 (Lipid with D = 1 \mu m^2/s)
+rotation = R (with rotation), NR (without rotation)
+
+
+Examples:
+AS16RHNR_v31, has N=16, It is a rigid cargo (R), rotation was not considered (NR) and the number of bound motor is 1.
+AS16D4HR_v33 , N=16, lipid cargo with with D = 1 \mu m^2/s, rotation was considered, number of bound motors was n=3
+
+

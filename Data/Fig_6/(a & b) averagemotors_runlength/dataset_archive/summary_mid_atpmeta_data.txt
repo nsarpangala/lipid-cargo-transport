@@ -1,0 +1,7 @@
+Git previous commit 89e3b68c713dafdcdd4b7481ff123aa3647db6a2 
+Host computer: mrcdlogin.cluster 
+Date and Time: Mon Sep 28 00:00:00 2020 
+Name of the file: src/analysis/runlength_average_motors.py 
+Data folder: 3dtransport 
+Result folder: 100um_runlength_average_motors 
+{"AS4D0M": [0, 4, 0.0001, "N=4 Mid [ATP]", "D0"], "AS16D0M": [0, 16, 0.0001, "N=16 Mid [ATP]", "D0"], "AS4D2M": [0.01, 4, 0.0001, "N=4 Mid [ATP]", "D2"], "AS16D2M": [0.01, 16, 0.0001, "N=16 Mid [ATP]", "D2"], "AS4D4M": [1.0, 4, 0.0001, "N=4 Mid [ATP]", "D4"], "AS16D4M": [1.0, 16, 0.0001, "N=16 Mid [ATP]", "D4"]}/n

@@ -1,0 +1,4 @@
+These results are from the following branch: cargo_rotation_implementation
+Commit hash:  cecf595cde5f2ca121483e3b8bb67bb4da2d3abb
+Jupyter notebook name: trajectory_motor_force_head_positions.ipynb
+Computer: mrcdlogin.cluster
