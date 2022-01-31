@@ -1,6 +1,6 @@
-# lipid-cargo-transport
+# Brownian Dynamics model of the transport of lipid cargoes by multiple kinesin motors.
 
-## Brownian Dynamics model of the transport of lipid cargoes by multiple kinesin motors. 
+
 This is a model of transport of vesicles by teams of kinesin motors. 
 
 Please the details of the model and analysis in our [pre-print](https://www.biorxiv.org/content/10.1101/2021.06.10.447989v3)
