@@ -28,10 +28,10 @@ Please the details of the model and analysis in our [pre-print](https://www.bior
 
   * num_cores is the number of cores you want to use to run these simulations
   * Choose appropriate main_script file in `src/simulation/` depending on whether you want to run simulations with or without cargo rotation.
-  * When the simulation is complete, the data set with cargo center of mass, motor anchor positions etc should be stored in `~/data/3dtransport/<simname>`
+  * When the simulation is complete, the data set with cargo center of mass, motor anchor positions etc. will be stored in `~/data/3dtransport/<simname>`
 
 - **Analyse the data from simulations**
-  Please find some useful analysis scripts that compute the metrics like cargo runlength, average number of bound motors, motor off-rate etc in `src/analysis/`
+  Please find some useful analysis scripts that compute the metrics like cargo runlength, average number of bound motors, motor off-rate etc. in `src/analysis/`
   `src/analysis/plot_class_parquet.py` has the core set of analysis methods.
 
 
