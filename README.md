@@ -24,7 +24,7 @@ Please the details of the model and analysis in our [pre-print](https://www.bior
 
 - **Run cargo transport simulations**
 
-  `python src/simulations/main_script_cargo_rotation.py input_filename.txt 2 num_cores'
+  `python src/simulations/main_script_cargo_rotation.py input_filename.txt 2 num_cores`
 
   * num_cores is the number of cores you want to use to run these simulations
   * Choose appropriate main_script file in `src/simulation/` depending on whether you want to run simulations with or without cargo rotation.
@@ -35,7 +35,7 @@ Please the details of the model and analysis in our [pre-print](https://www.bior
   `src/analysis/plot_class_parquet.py` has the core set of analysis methods.
 
 
-This computational model was developed in the [Gopinathan Lab, UC Merced] (http://gopinathanlab.ucmerced.edu/)
+This computational model was developed in the [Gopinathan Lab, UC Merced](http://gopinathanlab.ucmerced.edu/)
 
 For more information on this model, help with running simulations and analysis, and issues feel free to contact 
 Ajay Gopinathan (agopinathan at ucmerced dot edu) and Niranjan Sarpangala (nsarpangala at ucmerced dot edu)
