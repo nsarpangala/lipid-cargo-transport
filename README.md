@@ -1,6 +1,10 @@
 # Brownian Dynamics model of the transport of lipid cargoes by multiple kinesin motors.
 
-In cells, multiple molecular motors work together as teams to carry cargoes such as vesicles and organelles over long distances to their destinations by stepping along a network of cytoskeletal filaments. We have modeled such a transport a single vesicle by teams of Kinesin-1 motors. Surface fluidity of cargo surface was taken into account by explicitly implementing the Brownian dynamics of molecular motors on the spherical cargo surface. Load and ATP dependent kinetics of Kinesin-1 motors on the microtubule were also taken into account. Please find the details of the model and our analysis in our [pre-print](https://www.biorxiv.org/content/10.1101/2021.06.10.447989v3)
+In cells, multiple molecular motors work together as teams to carry cargoes such as vesicles and organelles over long distances to their destinations by stepping along a network of cytoskeletal filaments. We have modeled such a transport a single vesicle by teams of Kinesin-1 motors on a single microtubule. Surface fluidity of cargo surface was taken into account by explicitly implementing the Brownian dynamics of molecular motors on the spherical cargo surface. Load and ATP dependent kinetics of Kinesin-1 motors on the microtubule were also taken into account. Please find the details of the model and our analysis in our [pre-print](https://www.biorxiv.org/content/10.1101/2021.06.10.447989v3)
+
+### Animation of our model (without rotational diffusion of cargo)
+
+https://user-images.githubusercontent.com/34322933/154814214-e8d34833-cef4-401d-85dd-b20cf5960a7c.mov
 
 
 ### Instructions to help you run the code:
