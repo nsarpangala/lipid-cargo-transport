@@ -4,7 +4,7 @@ In cells, multiple molecular motors work together as teams to carry cargoes such
 
 ### Animation of our model (without rotational diffusion of cargo)
 
-https://user-images.githubusercontent.com/34322933/154814214-e8d34833-cef4-401d-85dd-b20cf5960a7c.mov
+![]ttps://user-images.githubusercontent.com/34322933/154814214-e8d34833-cef4-401d-85dd-b20cf5960a7c.mov | width=100 )
 
 
 ### Instructions to help you run the code:
