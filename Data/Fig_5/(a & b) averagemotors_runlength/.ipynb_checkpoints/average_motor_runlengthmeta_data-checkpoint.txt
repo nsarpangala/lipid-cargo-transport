@@ -1,7 +1,0 @@
-Git previous commit 5f8ab4697422c5bfd604493873eeaa5cba7e7228 
-Host computer: mrcdlogin.cluster 
-Date and Time: Sat Oct  3 00:00:00 2020 
-Name of the file: src/analysis/plot_runlength_average_motors.py 
-Data folder: /home/nsarpangala/data_dummy/results/3dtransport/100um_runlength_average_motors/ 
-Result folder: /home/nsarpangala/data_dummy/results/3dtransport/100um_runlength_average_motors/ 
-Runlength as a function of atp and N for different cargo surface diffusivities./n
